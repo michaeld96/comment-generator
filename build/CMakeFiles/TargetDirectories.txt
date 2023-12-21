@@ -1,0 +1,3 @@
+/Users/michaeldick/Documents/comment-generator/build/CMakeFiles/comment_generator.dir
+/Users/michaeldick/Documents/comment-generator/build/CMakeFiles/edit_cache.dir
+/Users/michaeldick/Documents/comment-generator/build/CMakeFiles/rebuild_cache.dir
