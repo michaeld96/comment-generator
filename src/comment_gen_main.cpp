@@ -10,16 +10,18 @@ int main()
     return 0;
 }
 
-void testing_border_length()
-{
-    std::cout << "Testing Border Length\n";
-    Comment test_comment;
-    test_comment.set_width(20);
-    test_comment.print();
-}
+// void testing_border_length()
+// {
+//     std::cout << "Testing Border Length\n";
+//     Comment test_comment;
+//     test_comment.set_width(20);
+//     test_comment.print();
+// }
 
 void test_reading_in_txt()
 {
     Comment* test_comment = new Comment();
+    // feed in data.
     test_comment->read_data("../test-txts/one-short-sent.txt");
+    test_comment->run();
 }
