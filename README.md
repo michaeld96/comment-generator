@@ -9,6 +9,8 @@ comment in `.txt` form and will format the comment and can return a terminal out
 - [ ] Format simple sentences.
 - [ ] Have a numbering system. Build for input to check for numbers and format accordingly. 
 - [ ] Have a bullet system. Build check to see if bullets are made and then incorporate this into output.
+- [x] Have one example working.
+- [ ] Need to generalize vector resizing. 
 
 ## Long Term Goals
 

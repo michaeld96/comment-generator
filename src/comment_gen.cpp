@@ -120,6 +120,7 @@ void Comment::format_paragraph(/*std::string data*/)
 
 
     // insert top border.
+    // TODO: Need to think generalize this
     body.resize(5); // insuring that there is something.
     unsigned int line = 0;
     top_border(body[line], width);
